@@ -1,4 +1,4 @@
-# Designing-an-AWS-Cloud-Architecture-Solution-for-a-Medical-Company
+# Designing-an-AWS-Cloud-Architecture-Solution-for-a-Medical-Company-for-Cloud-Migration
 In this project it is assumed that a cloud architecture has to be designed using cloud best practices for a medical company since they are moving their entire on-premises infrastructure to AWS cloud. However, we only design and create the architecture diagram.
 The description and requirements of the company is as follows - 
 
